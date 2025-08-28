@@ -20,11 +20,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by:  Sanjana J
 RegisterNumber:  212224230240
-*/
+
 
 import pandas as pd
 import numpy as np
@@ -79,30 +79,39 @@ print('RMSE = ',rmse)
 
 ## Output:
 Head Values
+
 <img width="216" height="262" alt="Screenshot 2025-08-28 111350" src="https://github.com/user-attachments/assets/f1161dac-ffdd-495a-9563-2b4a28863753" />
 
 Tail Values
+
 <img width="210" height="263" alt="Screenshot 2025-08-28 111354" src="https://github.com/user-attachments/assets/8e6487bb-6936-421e-b08a-c3b9c5af535c" />
 
 X values
+
 <img width="316" height="555" alt="Screenshot 2025-08-28 111359" src="https://github.com/user-attachments/assets/19bf2a65-818f-4de8-9fe7-11f1cd1f80ca" />
 
 Y values
+
 <img width="668" height="123" alt="Screenshot 2025-08-28 111409" src="https://github.com/user-attachments/assets/dd14205a-34d2-4f7e-9032-a422be1c4cfc" />
 
 Predicted values
+
 <img width="667" height="206" alt="Screenshot 2025-08-28 111419" src="https://github.com/user-attachments/assets/8abf2371-6584-46ae-9fe2-e6bd31733c79" />
 
 Actual values
+
 <img width="677" height="89" alt="Screenshot 2025-08-28 111423" src="https://github.com/user-attachments/assets/313b0c8b-f561-4c60-b4c2-6da2a84c62f1" />
 
 Training set
+
 <img width="690" height="686" alt="Screenshot 2025-08-28 111429" src="https://github.com/user-attachments/assets/4d8c9ec1-2a87-410e-8883-843c665b7a80" />
 
 Testing set
+
 <img width="668" height="669" alt="Screenshot 2025-08-28 111437" src="https://github.com/user-attachments/assets/0b07c2e4-8104-47e7-93aa-7997f4f9845a" />
 
 MSE, MAE and RMSE
+
 <img width="683" height="213" alt="Screenshot 2025-08-28 111443" src="https://github.com/user-attachments/assets/7e29ed24-cd06-4a4a-9d61-939d6baa6c4f" />
 
 
